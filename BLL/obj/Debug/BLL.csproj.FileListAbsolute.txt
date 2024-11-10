@@ -1,0 +1,6 @@
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ProyectoDeAulaVB\BLL\bin\Debug\BLL.dll
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ProyectoDeAulaVB\BLL\bin\Debug\BLL.pdb
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ProyectoDeAulaVB\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ProyectoDeAulaVB\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ProyectoDeAulaVB\BLL\obj\Debug\BLL.dll
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ProyectoDeAulaVB\BLL\obj\Debug\BLL.pdb

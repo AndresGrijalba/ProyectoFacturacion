@@ -1,0 +1,9 @@
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ProyectoDeAulaVB\DAL\bin\Debug\DAL.dll
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ProyectoDeAulaVB\DAL\bin\Debug\DAL.pdb
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ProyectoDeAulaVB\DAL\bin\Debug\Entity.dll
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ProyectoDeAulaVB\DAL\bin\Debug\Entity.pdb
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ProyectoDeAulaVB\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ProyectoDeAulaVB\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ProyectoDeAulaVB\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ProyectoDeAulaVB\DAL\obj\Debug\DAL.dll
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ProyectoDeAulaVB\DAL\obj\Debug\DAL.pdb
